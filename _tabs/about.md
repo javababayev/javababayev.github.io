@@ -1,8 +1,7 @@
 ---
-title: About
+title: Haqqımızda
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Azərbaycan və qlobal dünyanı anlamaq üçün orijinal sənədli filmlər, məqsədli araşdırmalar və görüntülü hekayələr yaradan bir platforma.
